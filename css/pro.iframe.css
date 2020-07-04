@@ -1,0 +1,30 @@
+.header
+{
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 2;
+  height: 1em;
+  overflow: hidden;
+  padding: .1em;
+  color: #fff;
+  line-height: 1;
+  background-color: #0e5bb8;
+  border-bottom: solid 0px #ddd;
+  box-shadow: 1px 1px 10px #333;
+}
+.iframe
+{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 0;  
+  width: 100%;
+  min-height: 100%;
+  padding-top: 1.1em;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; /* Elimina el scroll izquierdo de la pagina de fondo*/
+}

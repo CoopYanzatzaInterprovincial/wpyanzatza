@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.ciem.com/index.html</loc>
+    <lastmod>2018-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.ciem.com/images/disyuntores.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ciem.com/images/suuuu.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ciem.com/images/solidworks.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ciem.com/images/soladudra111.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ciem.com/images/12345.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.ciem.com/primer-ciclo.html</loc>
+    <lastmod>2018-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.ciem.com/images/road.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ciem.com/images/cactus.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.ciem.com/images/trees.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
