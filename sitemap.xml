@@ -1,39 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.ciem.com/index.html</loc>
-    <lastmod>2018-10-26</lastmod>
+    <loc>http://www.cooperativayanzatza.com/index.html</loc>
+    <lastmod>2020-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.ciem.com/images/disyuntores.jpg</image:loc>
+      <image:loc>http://www.cooperativayanzatza.com/images/flota%20yanzatza01.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.ciem.com/images/suuuu.jpg</image:loc>
+      <image:loc>http://www.cooperativayanzatza.com/images/yanzatza01.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.ciem.com/images/solidworks.jpg</image:loc>
+      <image:loc>http://www.cooperativayanzatza.com/images/ancianitos.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.ciem.com/images/soladudra111.jpg</image:loc>
+      <image:loc>http://www.cooperativayanzatza.com/images/familia%20yazatza.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.ciem.com/images/12345.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://www.ciem.com/primer-ciclo.html</loc>
-    <lastmod>2018-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.ciem.com/images/road.jpg</image:loc>
+      <image:loc>http://www.cooperativayanzatza.com/images/flota%20yanzatza01-crop-u40570.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.ciem.com/images/cactus.jpg</image:loc>
+      <image:loc>http://www.cooperativayanzatza.com/images/yanzatza01-crop-u40809.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.ciem.com/images/trees.jpg</image:loc>
+      <image:loc>http://www.cooperativayanzatza.com/images/ancianitos60x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cooperativayanzatza.com/images/familia%20yazatza69x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cooperativayanzatza.com/images/yanzatza01-crop-u40787.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cooperativayanzatza.com/images/flota%20yanzatza01-crop-u405702.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cooperativayanzatza.com/images/yanzatza01-crop-u408092.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cooperativayanzatza.com/images/yanzatza01-crop-u407872.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cooperativayanzatza.com/images/flota%20yanzatza01-crop-u405703.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cooperativayanzatza.com/images/yanzatza01-crop-u408093.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cooperativayanzatza.com/images/yanzatza01-crop-u407873.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cooperativayanzatza.com/images/flota%20yanzatza01-crop-u405704.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cooperativayanzatza.com/images/yanzatza01-crop-u408094.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cooperativayanzatza.com/images/yanzatza01-crop-u407874.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cooperativayanzatza.com/images/flota%20yanzatza01-crop-u405705.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cooperativayanzatza.com/images/yanzatza01-crop-u408095.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

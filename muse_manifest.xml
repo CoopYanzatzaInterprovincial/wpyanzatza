@@ -1,10 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ciem.com" resolutions="1x" timestamp="1540595421113">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.cooperativayanzatza.com" resolutions="1x" timestamp="1593996556982">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="39844160" ref="index"/>
-    <file name="nomq_index.css" crc="422388660" ref="index"/>
-    <file name="primer-ciclo.css" crc="214528609" ref="primer-ciclo"/>
-    <file name="nomq_primer-ciclo.css" crc="295794130" ref="primer-ciclo"/>
+    <file name="index.css" crc="4038118206" ref="index"/>
+    <file name="nomq_index.css" crc="494539312" ref="index"/>
+    <file name="master_principal.css" crc="121598962" ref="index"/>
+    <file name="nomq_preview_master_principal.css" crc="3972099262" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="muse-icon-font.woff" crc="3856750426"/>
@@ -12,55 +13,87 @@
     <file name="muse-icon-font.svg" crc="472712140"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:primer-ciclo"/>
-    <file name="museutils.js" crc="3803043152" ref="index:primer-ciclo"/>
-    <file name="whatinput.js" crc="86476730" ref="index:primer-ciclo"/>
-    <file name="museconfig.js" crc="380897831" ref="index:primer-ciclo"/>
-    <file name="webpro.js" crc="242022427" ref="index:primer-ciclo"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index:primer-ciclo"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index:primer-ciclo"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index:primer-ciclo"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:primer-ciclo"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:primer-ciclo"/>
-    <file name="form_check.php" crc="147359589" ref="index"/>
-    <file name="form_throttle.php" crc="93986428" ref="index"/>
-    <file name="form_process.php" crc="3851993751" ref="index"/>
-    <file name="form-u13661.php" crc="4006746844" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:primer-ciclo"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:primer-ciclo"/>
-    <file name="require.js" crc="4157109226" ref="index:primer-ciclo"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="disyuntores.jpg" crc="3979289501" seo="true" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="giphy.gif" crc="499240668" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="respaldo" alt=""/>
+      <caption webpage="respaldo" alt=""/>
+      <caption webpage="respaldo" alt=""/>
+      <caption webpage="respaldo" alt=""/>
+      <caption webpage="respaldo" alt=""/>
+    </file>
+    <file name="ansys_logo.jpg" crc="4190427266" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="respaldo" alt=""/>
+      <caption webpage="respaldo" alt=""/>
+      <caption webpage="respaldo" alt=""/>
+    </file>
+    <file name="661_bp-u20762-fr.png" crc="441318374" ref="index"/>
+    <file name="661_bp-u20762-fr2.png" crc="18754018" ref="index"/>
+    <file name="desplazaredit.png" crc="4234277180" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ciudad yantzaza.jpg" crc="425527521" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="desplazaredit-u41788-fr.png" crc="3882580813" ref="index"/>
+    <file name="flota yanzatza01.jpg" crc="4032153885" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:primer-ciclo"/>
-    <file name="suuuu.jpg" crc="273726651" seo="true" ref="index">
+    <file name="yanzatza01.jpg" crc="4145823142" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ancianitos.jpg" crc="3924911945" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="solidworks.jpg" crc="3912781888" seo="true" ref="index">
+    <file name="familia yazatza.jpg" crc="312586303" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="soladudra111.jpg" crc="316500782" seo="true" ref="index">
+    <file name="flota yanzatza01-crop-u40570.jpg" crc="349014171" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yanzatza01-crop-u40809.jpg" crc="530329839" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ancianitos60x45.jpg" crc="493211919" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="12345.jpg" crc="3836692722" seo="true" ref="index">
+    <file name="familia yazatza69x45.jpg" crc="77188055" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -68,186 +101,129 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="661_bp-u3403-fr.png" crc="441318374" ref="index"/>
-    <file name="ingenieria-electromecanicas.jpg" crc="521188283" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="oferta-laboral.jpg" crc="4057288508" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="solidworks.png" crc="4151716371" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="giphy.gif" crc="499240668" ref="index">
+    <file name="ecuador-sol.png" crc="4179809152" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="software-freecad-logo-440x180.jpg" crc="3886168375" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="autocad-logo.png" crc="3915797397" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="logoyz-u42204-fr.png" crc="4026540817" ref="index"/>
+    <file name="flota yanzatza.jpg" crc="4030155758" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="labview.png" crc="368681038" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="proteus-u9687-fr.jpg" crc="21669493" ref="index"/>
-    <file name="arduino-genuino.png" crc="410307077" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cadesimu.jpg" crc="3922856656" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="festo.jpg" crc="524757108" ref="index">
+    <file name="clima-u41560-fr.png" crc="14089212" ref="index"/>
+    <file name="seguro-u41575-fr.png" crc="285229602" ref="index"/>
+    <file name="wifi-u41590-fr.png" crc="487274862" ref="index"/>
+    <file name="usb-u41605-fr.png" crc="4163757324" ref="index"/>
+    <file name="tv-u41620-fr.png" crc="3818543141" ref="index"/>
+    <file name="encomiendas-u41635-fr.png" crc="270955199" ref="index"/>
+    <file name="logoyz.png" crc="327647342" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="ansys_logo.jpg" crc="4190427266" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pdf.png" crc="4273864275" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dark-guidance-industry-1139171.jpg" crc="4146475534" ref="index">
+    <file name="ecudoyzz.png" crc="4248109323" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="dark-guidance-industry-1139171-u12160-fr.jpg" crc="447821364" ref="index"/>
-    <file name="proteus.jpg" crc="3865469936" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="661_bp.png" crc="3815099887" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dark-guidance-industry-1139171-u12160-fr2.jpg" crc="408649812" ref="index"/>
-    <file name="oferta-laboral-u10524-fr.jpg" crc="3847673602" ref="index"/>
-    <file name="labview-u10383-fr.png" crc="137582931" ref="index"/>
-    <file name="cadesimu-u9657-fr.jpg" crc="3767956652" ref="index"/>
-    <file name="proteus-u9687-fr2.jpg" crc="3815256183" ref="index"/>
-    <file name="ansys_logo-u9612-fr.jpg" crc="4154840515" ref="index"/>
-    <file name="661_bp-u18499-fr.png" crc="18754018" ref="index"/>
-    <file name="ingenieria-electromecanicas-u10182-fr.jpg" crc="273464314" ref="index"/>
-    <file name="oferta-laboral-u20367-fr.jpg" crc="3973853075" ref="index"/>
-    <file name="autocad-logo-u20364-fr.png" crc="4146251685" ref="index"/>
-    <file name="cadesimu-u20358-fr.jpg" crc="3803548705" ref="index"/>
-    <file name="festo-u20362-fr.jpg" crc="444978262" ref="index"/>
-    <file name="proteus-u20360-fr.jpg" crc="62812056" ref="index"/>
-    <file name="solidworks-u20361-fr.png" crc="3822464683" ref="index"/>
-    <file name="arduino-genuino-u20357-fr.png" crc="4157456187" ref="index"/>
-    <file name="labview-u20363-fr.png" crc="3940093171" ref="index"/>
-    <file name="software-freecad-logo-440x180-u20355-fr.jpg" crc="334657620" ref="index"/>
-    <file name="oferta-laboral-u23722-fr.jpg" crc="319624834" ref="index"/>
-    <file name="ansys_logo-u23727-fr.jpg" crc="46868048" ref="index"/>
-    <file name="autocad-logo-u23735-fr.png" crc="460511724" ref="index"/>
-    <file name="cadesimu-u23729-fr.jpg" crc="264317320" ref="index"/>
-    <file name="festo-u23733-fr.jpg" crc="3890398663" ref="index"/>
-    <file name="proteus-u23731-fr.jpg" crc="4117683886" ref="index"/>
-    <file name="solidworks-u23732-fr.png" crc="526400010" ref="index"/>
-    <file name="arduino-genuino-u23728-fr.png" crc="3886555162" ref="index"/>
-    <file name="labview-u23734-fr.png" crc="188230241" ref="index"/>
-    <file name="software-freecad-logo-440x180-u23736-fr.jpg" crc="3814868452" ref="index"/>
-    <file name="calculo.jpg" crc="106436532" ref="primer-ciclo">
-      <caption webpage="primer-ciclo" alt=""/>
+    <file name="yanzatza01-crop-u40787.jpg" crc="178088959" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="calculo-u25704-fr.jpg" crc="509492370" ref="primer-ciclo"/>
-    <file name="symbolab-logo.png" crc="219948211" ref="primer-ciclo">
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
+    <file name="flota yanzatza01-crop-u405702.jpg" crc="349014171" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="wolframalpha.png" crc="318705828" ref="primer-ciclo">
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
+    <file name="yanzatza01-crop-u408092.jpg" crc="530329839" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="mathway_logo.png" crc="64214948" ref="primer-ciclo">
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
+    <file name="clima-u41560-fr2.png" crc="3847559757" ref="index"/>
+    <file name="seguro.png" crc="386113596" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="road.jpg" crc="4174814531" seo="true" ref="primer-ciclo">
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
+    <file name="wifi.png" crc="4091173708" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="cactus.jpg" crc="4128071816" seo="true" ref="primer-ciclo">
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
+    <file name="usb.png" crc="3776090606" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="trees.jpg" crc="161751756" seo="true" ref="primer-ciclo">
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
-      <caption webpage="primer-ciclo" alt=""/>
+    <file name="tv.png" crc="3985776581" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
+    <file name="encomiendas.png" crc="481409578" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="oferta-laboral-u37831-fr.jpg" crc="3973853075" ref="index"/>
+    <file name="autocad-logo-u37815-fr.png" crc="4146251685" ref="index"/>
+    <file name="cadesimu-u37821-fr.jpg" crc="3803548705" ref="index"/>
+    <file name="festo-u37817-fr.jpg" crc="444978262" ref="index"/>
+    <file name="proteus-u37819-fr.jpg" crc="62812056" ref="index"/>
+    <file name="solidworks-u37818-fr.png" crc="3822464683" ref="index"/>
+    <file name="arduino-genuino-u37822-fr.png" crc="4157456187" ref="index"/>
+    <file name="labview-u37816-fr.png" crc="3940093171" ref="index"/>
+    <file name="software-freecad-logo-440x180-u37824-fr.jpg" crc="334657620" ref="index"/>
+    <file name="yanzatza01-crop-u407872.jpg" crc="178088959" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flota yanzatza01-crop-u405703.jpg" crc="349014171" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yanzatza01-crop-u408093.jpg" crc="530329839" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="oferta-laboral-u37869-fr.jpg" crc="319624834" ref="index"/>
+    <file name="ansys_logo-u37858-fr.jpg" crc="46868048" ref="index"/>
+    <file name="autocad-logo-u37860-fr.png" crc="460511724" ref="index"/>
+    <file name="cadesimu-u37856-fr.jpg" crc="264317320" ref="index"/>
+    <file name="festo-u37862-fr.jpg" crc="3890398663" ref="index"/>
+    <file name="proteus-u37864-fr.jpg" crc="4117683886" ref="index"/>
+    <file name="solidworks-u37863-fr.png" crc="526400010" ref="index"/>
+    <file name="arduino-genuino-u37857-fr.png" crc="3886555162" ref="index"/>
+    <file name="labview-u37861-fr.png" crc="188230241" ref="index"/>
+    <file name="software-freecad-logo-440x180-u37859-fr.jpg" crc="3814868452" ref="index"/>
+    <file name="yanzatza01-crop-u407873.jpg" crc="178088959" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flota yanzatza01-crop-u405704.jpg" crc="349014171" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yanzatza01-crop-u408094.jpg" crc="530329839" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yanzatza01-crop-u407874.jpg" crc="178088959" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flota yanzatza01-crop-u405705.jpg" crc="349014171" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yanzatza01-crop-u408095.jpg" crc="530329839" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flota yanzatza-u41056-fr.jpg" crc="3785689374" ref="index"/>
   </folder>
-  <file name="index.html" crc="4158798298" seo="true" mt="1540573809756" redirect="true"/>
-  <file name="primer-ciclo.html" crc="474337721" seo="true" mt="1539966219088" redirect="true"/>
+  <file name="index.html" crc="3940043095" seo="true" mt="1593996371374" redirect="true"/>
 </manifest>
